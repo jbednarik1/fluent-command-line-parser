@@ -78,7 +78,7 @@ namespace Fclp
 		/// <summary>
 		/// Gets the <see cref="StringComparison"/> to use when matching values.
 		/// </summary>
-		internal StringComparison StringComparison { get; private set; }
+		public StringComparison StringComparison { get; set; }
 
 		/// <summary>
 		/// Gets the list of Options
