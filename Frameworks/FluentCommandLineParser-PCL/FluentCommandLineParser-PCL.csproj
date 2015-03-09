@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Fclp</RootNamespace>
-    <AssemblyName>FluentCommandLineParser</AssemblyName>
+    <AssemblyName>FluentCommandLineParser.Pcl</AssemblyName>
     <TargetFrameworkProfile>Profile259</TargetFrameworkProfile>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

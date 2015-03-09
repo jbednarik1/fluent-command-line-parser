@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Fclp.Tests</RootNamespace>
-    <AssemblyName>FluentCommandLineParser-PCL.Tests</AssemblyName>
+    <AssemblyName>FluentCommandLineParser.Pcl.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile>
