@@ -24,7 +24,7 @@
     <DefineConstants>TRACE;DEBUG;CODE_ANALYSIS PORTABLE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bin\debug\FluentCommandLineParser.xml</DocumentationFile>
+    <DocumentationFile>bin\debug\FluentCommandLineParser.Pcl.xml</DocumentationFile>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <RunCodeAnalysis>true</RunCodeAnalysis>
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
@@ -36,7 +36,7 @@
     <DefineConstants>TRACE;CODE_ANALYSIS PORTABLE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bin\release\FluentCommandLineParser.xml</DocumentationFile>
+    <DocumentationFile>bin\release\FluentCommandLineParser.Pcl.xml</DocumentationFile>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <RunCodeAnalysis>true</RunCodeAnalysis>
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
