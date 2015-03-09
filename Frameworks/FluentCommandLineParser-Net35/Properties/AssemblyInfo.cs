@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FluentCommandLineParser-Net35")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Fluent Command Line Parser")]
+[assembly: AssemblyDescription("A simple, strongly typed .NET C# command line parser library using a fluent easy to use interface.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FluentCommandLineParser-Net35")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyProduct("Fluent Command Line Parser")]
+[assembly: AssemblyCopyright("Copyright © Simon Williams 2012 - 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
