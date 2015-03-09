@@ -56,7 +56,7 @@ namespace Fclp.Internals.Parsing.OptionParsers
 		/// <summary>
 		/// 
 		/// </summary>
-        internal Dictionary<Type, object> Parsers { get; set; }
+        public Dictionary<Type, object> Parsers { get; set; }
 
         /// <summary>
         /// Adds the specified <see cref="ICommandLineOptionParser{T}"/> to this factories list of supported parsers.
